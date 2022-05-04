@@ -344,7 +344,10 @@ transform: scale(1.2);
         width: 20%;
         height: 20%;
     }
-
+.last p{
+    font-size: 2rem;
+    color: #eee;
+}
 
 
 
